@@ -1,0 +1,19 @@
+#ACD du Projet
+## I. Menu
+-I.1. Affichage
+-I.2. Redirection
+
+## II. Positionnement des navires 
+-II.1 Placement aléatoire des navires du Joueur
+-II.2 Placement aléatoire des navires de l'IA
+
+## III. Tour du Joueur
+-III.1 Choix de l'action
+-III.2 Execution de l'action
+
+## IV. Tour de l'IA
+-IV.1 
+
+## V. Fin de partie
+- V.1 Enregistrement
+- V.2 En cas de victoire du joueur ou de l'IA arrêt de la partie
