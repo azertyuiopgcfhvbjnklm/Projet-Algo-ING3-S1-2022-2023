@@ -3,3 +3,4 @@
 Projet de bataille navale revisitée codée en C dans un cadre étudiant à l'ECE
 
 par Balthazar, Vincent, Adlane et Marwane.
+commencons le projet !
